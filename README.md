@@ -2,10 +2,10 @@
 
 End-to-end customer analytics project on two years of UK online-retail transactions (Dec 2009 – Dec 2011). Raw data is cleaned in **SQL Server**, customers are scored and segmented with **RFM analysis in Python (pandas)**, and the results are presented in an interactive **Power BI** dashboard.
 
-![Overview_1 page](images/overview.png)
-![Overview_2 page](images/overview.png)
-![RFM_1 page](https://1drv.ms/i/c/5db563b36d5ab075/IQAkMNXGEZMJTahEVWR9w3QmAa5YWJ3rm0MU-5ibXNIyIAw?e=Lz7apR)
-![RFM_2 page](images/rfm.png)
+![Overview_1 page](Images/overview_1.png)
+![Overview_2 page](Images/overview_2.png)
+![RFM_1 page](Images/RFM_1.png)
+![RFM_2 page](Images/RFM_2.png)
 
 ## Business Problem
 IKEA Gifting (a UK-based online gift and home-decor retailer) had no data-driven view of which customers drive the most revenue or which are disengaging, so retention and marketing efforts were reactive. The goal: **identify the most valuable customer segments and quantify churn risk** so marketing and CRM teams can prioritise spend.
