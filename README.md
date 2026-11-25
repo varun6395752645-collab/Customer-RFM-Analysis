@@ -95,4 +95,4 @@ SQL Server (T-SQL, CTEs, window functions) · Python (pandas) · Jupyter Noteboo
 
 ## Author
 **Varun Sharma** — Aspiring Data Analyst · Python | SQL | Power BI
-[LinkedIn](#) · [GitHub](#)
+[LinkedIn](www.linkedin.com/in/varun-sharma-a93927327) · [GitHub](https://github.com/varun6395752645-collab)
